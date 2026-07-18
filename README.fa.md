@@ -1,4 +1,4 @@
-<p align="center"><img src="/public/screenshots/tamyek1.png" width="400" alt="Tamyek Logo"></p>
+<p align="center"><img src="/public/screenshots/tamyek1.webp" width="400" alt="Tamyek Logo"></p>
 
 🇮🇷 فارسی | 🇬🇧 [English](README.md)
 
