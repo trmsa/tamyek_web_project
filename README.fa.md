@@ -1,6 +1,6 @@
 <p align="center"><img src="/public/screenshots/tamyek1.webp" width="400" alt="Tamyek Logo"></p>
 
-🇮🇷 فارسی | 🇬🇧 [English](README.md)
+🇮🇷 فارسی | 🇬🇧 [English](README.md) 
 
 ![Laravel](https://img.shields.io/badge/Laravel-12-red)
 ![PHP](https://img.shields.io/badge/PHP-8.4-blue)
