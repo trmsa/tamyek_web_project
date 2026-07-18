@@ -1,66 +1,163 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><img src="screenshots/tamyek1.png" width="400" alt="Tamyek Logo"></p>
+
+🇬🇧 English | 🇮🇷 [فارسی](README.fa.md)
+
+![Laravel](https://img.shields.io/badge/Laravel-12-red)
+![PHP](https://img.shields.io/badge/PHP-8.4-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+## About Tamyek
+
+# 🛍️ Tamyek - Online Nuts & Dried Fruits Store
+
+**Tamyek** is a modern and scalable e-commerce platform designed for selling nuts, dried fruits, and related products. The project focuses on providing a seamless shopping experience for both customers and administrators through advanced pricing, order management, and content management features.
+
+In addition to standard e-commerce functionality, Tamyek introduces unique capabilities such as **wholesale purchasing with weight-based pricing, custom nut mix creation, nutrition-based product search, an advanced discount system, and complete order lifecycle tracking**.
+
+---
+
+## ✨ Features
+
+### 🛒 Shopping & Orders
+
+* Retail and wholesale purchasing
+* Dynamic wholesale pricing based on product weight
+* Secure online payments through multiple payment gateways
+* Order tracking from placement to delivery
+* Automatic SMS notifications for:
+
+  * Order placement
+  * Order confirmation
+  * Order shipment
+  * Order delivery
+
+---
+
+### 🥜 Product Management
+
+* Create and manage different product types
+* Detailed nutritional information for every product
+* Search products by nutritional values
+* Product images, specifications, and attributes
+* Social media metadata and promotional links for products
+
+---
+
+### 🥣 Custom Nut Mix Builder
+
+One of the core features of the platform is the ability for customers to create their own personalized nut mix.
+
+Customers can:
+
+* Select their preferred products
+* Specify the weight of each ingredient
+* View the calculated price in real time
+* Add the custom mix directly to the shopping cart
+
+---
+
+### 🎁 Discount System
+
+* Fixed amount discounts
+* Percentage-based discounts
+* Public promotions
+* Coupon-based discount codes
+* Configurable discount validity periods
+
+---
+
+### 💬 Customer Support
+
+* Integrated support ticket system
+* Product reviews and customer comments
+
+---
+
+### 📰 Content Management
+
+* Blog
+* News
+* Article management
+* Static page management
+
+---
+
+### 📦 Order Management
+
+* Order registration
+* Order status management
+* Complete order lifecycle tracking
+* Customer order history
+
+---
+
+### 📱 Notifications
+
+* Automatic SMS notifications for important order events
+* Customer order status updates
+
+---
+
+## 🚀 Key Highlights
+
+* Retail and wholesale commerce in a single platform
+* Dynamic weight-based pricing
+* Personalized custom product builder
+* Nutrition-based product discovery
+* Advanced discount and promotion engine
+* Secure online payment integration
+* Automated SMS notifications
+* Comprehensive administration panel
+* Scalable and maintainable architecture
+
+---
+
+## 🛠️ Tech Stack
+
+* Laravel
+* PHP
+* MySQL
+* Redis
+* Blade
+* Queue
+* Laravel Sanctum
+* JavaScript
+* Jquery
+* Bootstrap
+* REST API
+
+---
+
+## ⚙️ Admin Panel Features
+
+* Product Management
+* Category Management
+* Order Management
+* User Management
+* Discount & Promotion Management
+* Blog & News Management
+* Customer Review Management
+* Support Ticket Management
+* SMS Notification Management
+
+---
+
+## 🎯 Project Goal
+
+The goal of this project is to build a professional, scalable, and maintainable e-commerce platform capable of supporting the needs of modern online stores. Alongside standard e-commerce functionality, the platform provides specialized features such as wholesale purchasing, weight-based pricing, personalized product configuration, and nutrition-driven product discovery.
+
+---
+
+## 📸 Screenshots
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+    <img src="screenshots/tamyek1.png" width="400" alt="Tamyek img">
+    <img src="screenshots/tamyek2.png" width="400" alt="Tamyek img">
+    <img src="screenshots/tamyek3.png" width="400" alt="Tamyek img">
+    <img src="screenshots/tamyek6.png" width="400" alt="Tamyek img">
+    <img src="screenshots/tamyek9.png" width="400" alt="Tamyek img">
 </p>
 
-## About Laravel
+> **Coming Soon**
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
