@@ -1,4 +1,4 @@
-<p align="center"><img src="screenshots/tamyek1.png" width="400" alt="Tamyek Logo"></p>
+<p align="center"><img src="/public/screenshots/tamyek1.png" width="400" alt="Tamyek Logo"></p>
 
 🇬🇧 English | 🇮🇷 [فارسی](README.fa.md)
 
@@ -7,7 +7,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## About Tamyek
 
 # 🛍️ Tamyek - Online Nuts & Dried Fruits Store
 
@@ -152,11 +151,11 @@ The goal of this project is to build a professional, scalable, and maintainable 
 ## 📸 Screenshots
 
 <p align="center">
-    <img src="screenshots/tamyek1.png" width="400" alt="Tamyek img">
-    <img src="screenshots/tamyek2.png" width="400" alt="Tamyek img">
-    <img src="screenshots/tamyek3.png" width="400" alt="Tamyek img">
-    <img src="screenshots/tamyek6.png" width="400" alt="Tamyek img">
-    <img src="screenshots/tamyek9.png" width="400" alt="Tamyek img">
+    <img src="/public/screenshots/tamyek1.png" width="250" alt="Tamyek img">
+    <img src="/public/screenshots/tamyek2.png" width="250" alt="Tamyek img">
+    <img src="/public/screenshots/tamyek3.png" width="250" alt="Tamyek img">
+    <img src="/public/screenshots/tamyek6.png" width="250" alt="Tamyek img">
+    <img src="/public/screenshots/tamyek9.png" width="250" alt="Tamyek img">
 </p>
 
 > **Coming Soon**
