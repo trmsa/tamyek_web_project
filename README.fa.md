@@ -24,12 +24,12 @@
 * قیمت‌گذاری پویا در خرید عمده بر اساس وزن
 * پرداخت آنلاین امن از طریق چندین درگاه پرداخت
 * پیگیری وضعیت سفارش از زمان ثبت تا تحویل
-* ارسال پیامک در مراحل مختلف سفارش
+* ارسال پیامک در مراحل مختلف سفارش:
 
-  * ثبت سفارش
-  * تأیید سفارش
-  * ارسال سفارش
-  * تحویل سفارش
+- ثبت سفارش
+- تأیید سفارش
+- ارسال سفارش
+- تحویل سفارش
 
 ---
 
@@ -151,11 +151,10 @@
 ## 📸 تصاویر پروژه
 
 <p align="center">
-    <img src="/public/screenshots/tamyek1.png" width="250" alt="Tamyek img">
-    <img src="/public/screenshots/tamyek2.png" width="250" alt="Tamyek img">
-    <img src="/public/screenshots/tamyek3.png" width="250" alt="Tamyek img">
-    <img src="/public/screenshots/tamyek6.png" width="250" alt="Tamyek img">
-    <img src="/public/screenshots/tamyek9.png" width="250" alt="Tamyek img">
+    <img src="/public/screenshots/tamyek1.webp" width="250" alt="Tamyek img">
+    <img src="/public/screenshots/tamyek2.webp" width="250" alt="Tamyek img">
+    <img src="/public/screenshots/tamyek3.webp" width="250" alt="Tamyek img">
+    <img src="/public/screenshots/tamyek6.webp" width="250" alt="Tamyek img">
+    <img src="/public/screenshots/tamyek9.webp" width="250" alt="Tamyek img">
 </p>
 
-> **به زودی**
