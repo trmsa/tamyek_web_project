@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /user/
+Disallow: /favorits/
+Disallow: /tiket/
+Disallow: /cdn-cgi/
+
+Sitemap: https://tamyek.com/sitemap.xml

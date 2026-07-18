@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tamyek.app",
+    "sha256_cert_fingerprints": [
+      "D9:15:A7:4D:80:8C:7C:F6:3A:60:19:1B:1E:F6:38:0D:FD:48:5B:CF:1A:02:A9:2C:C7:58:D1:72:D5:77:61:6E"
+    ]
+  }
+}]
